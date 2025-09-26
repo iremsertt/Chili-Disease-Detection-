@@ -42,7 +42,7 @@ Yorum: Küçük bir veri setinde **Temel CNN**, Transfer Learning’den biraz da
 ## 🔗 Linkler
 -  **GitHub Repository**: [Chili Disease Detection](https://github.com/iremsertt/Chili-Disease-Detection-) 
 -  **Kaggle Notebook**  : [CNN & Transfer Learning - Chili Plant Disease](https://www.kaggle.com/code/remsert/cnn-transfer-learning-chili-plant#Transfer-Learning)
--  **Dataset (Kaggle)** : [Chili Plant Disease Dataset](https://www.kaggle.com/datasets/shuvokumarbasak4004/chili-plant-disease-detection)  
+-  **Dataset (Kaggle)** :  [Chili Plant Disease Dataset](https://www.kaggle.com/datasets/shuvokumarbasak4004/chili-plant-disease-detection)  
 
 
 
